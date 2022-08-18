@@ -1,0 +1,21 @@
+﻿body {
+}
+
+
+
+
+
+#imagen{
+    display:none;
+}
+
+.input-label {
+    background: #73909F;
+    color: #fff;
+    padding: 5px;
+    transition: transform 0.3s ease;
+}
+    .input-label:hover {
+        background: #A062F3; 
+            cursor: pointer;
+    }
