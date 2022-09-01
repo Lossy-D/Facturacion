@@ -9,3 +9,5 @@ function validaEmail(email) {
     var rpt = regex.test(email);
     return rpt;
 }
+//comentario de prueba//
+
